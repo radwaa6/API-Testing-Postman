@@ -1,0 +1,15 @@
+https://calendarific.com/api-documentation
+https://gorest.co.in
+https://reqres.in/
+https://httpbin.org/
+http://dummy.restapiexample.com/
+https://jsonplaceholder.typicode.com/
+https://fakerestapi.azurewebsites.net/
+https://www.programmableweb.com/apis/directory
+https://developers.google.com/maps/documentation
+https://developer.github.com/v3/repos/
+https://rickandmortyapi.com/documentation/#character-schema
+https://restful-booker.herokuapp.com/apidoc/index.html
+https://pokeapi.co/
+http://www.omdbapi.com/
+https://resttesttest.com/
